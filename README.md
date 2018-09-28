@@ -1,4 +1,4 @@
-# web-class
+# This is now Nathan's Web-Class!
 Example project
 <br>
 OS trying this again
